@@ -56,6 +56,12 @@ Copyright (c) 2016 Francisco Canela. Licensed under the MIT license.
 
 ## <a name="faq"></a> Frequently Asked Questions
 
+### Is this production ready?
+
+I use [Semver](http://semver.org/) for versioning.
+
+Until the software reaches 1.0.0 I would discourage the use for non-recreative projects.
+
 [npmsemver-image]: https://img.shields.io/npm/v/rachis-directory-structure.svg
 [npmsemver-url]: https://www.npmjs.com/package/rachis-directory-structure
 [ci-image]: https://travis-ci.org/fcanela/rachis-directory-structure.svg?branch=master
